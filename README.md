@@ -1,9 +1,5 @@
-# 🌿 Octant V2 Tutorial - Yield Donating Strategy Vault
+# Octant V2 YDS Tutorial -
 
-<div align="center">
-<img width="1920" height="1080" alt="thumbnail-octant-reduce" src="https://github.com/user-attachments/assets/b5a6ae64-899a-4687-b99f-0f9775398662" />
-
-<div align="center">
 
 **Octant V2: Yield-Driven Staking Tutorial**
 
